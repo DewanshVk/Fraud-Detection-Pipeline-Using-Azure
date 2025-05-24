@@ -129,31 +129,43 @@ The dataset used in this project is originally sourced from Kaggle and has been 
 ## 🖼️ Screenshots & Links
 
 1. Azure Data Factory pipeline
+   
    ![ADF](images/adf.png)
 
-2. Azure Data Lake Storage 
+2. Azure Data Lake Storage
+   
    ![ADF](images/adls.png)
 
 3. Databricks Notebooks (Cleaning & Modeling):
-   🔗 [View Notebooks in Repository](./notebooks/fd_cleaning.ipynb)
+
    ![notebooks](images/notebook1.png)
-    <br>
-   🔗 [View Notebooks in Repository](./notebooks/EDA_notebook.ipynb)
-   ![notebooks](images/notebook2.png)
-    <br>
-   🔗 [View Notebooks in Repository](./notebooks/feature_engineering.ipynb)
+   
+   🔗 [View cleaning Notebook](./notebooks/fd_cleaning.ipynb)
+
+   ![notebooks](images/notebook2.png)   
+    
+   🔗 [View EDA Notebook](./notebooks/EDA_notebook.ipynb)
+
+   
    ![notebooks](images/notebook3.png)
-    <br>
+       
+   🔗 [View Feature Eng Notebook](./notebooks/feature_engineering.ipynb)  
 
-4. MLflow Experiment Tracking:
+5. MLflow Experiment Tracking:
+
+   ![View Model Training Notebook](images/notebook4.png)
+   
    🔗 [View Notebooks in Repository](./notebooks/Model%20Training_notebook.ipynb)
-   ![notebooks](images/notebook4.png)
+   
+6. Synapse SQL Output:
 
-5. Synapse SQL Output:
-   🔗 [View script in Repository](./synapse/script.sql)
-   ![SQL](images/synap.png)
+  ![SQL](images/synap.png)
+  
+  🔗 [View script in Repository](./synapse/script.sql)
+   
 
-6. Power BI Dashboard:
+7. Power BI Dashboard:
+   
    ![PowerBI](images/powerbi_dashboard.png)
 
 ---
