@@ -138,33 +138,26 @@ The dataset used in this project is originally sourced from Kaggle and has been 
 
 3. Databricks Notebooks (Cleaning & Modeling):
 
-   ![notebooks](images/notebook1.png)
-   
    🔗 [View cleaning Notebook](./notebooks/fd_cleaning.ipynb)
+   ![notebooks](images/notebook1.png)
 
-   ![notebooks](images/notebook2.png)   
-    
    🔗 [View EDA Notebook](./notebooks/EDA_notebook.ipynb)
+   ![notebooks](images/notebook2.png)   
 
-   
+   🔗 [View Feature Eng Notebook](./notebooks/feature_engineering.ipynb)     
    ![notebooks](images/notebook3.png)
        
-   🔗 [View Feature Eng Notebook](./notebooks/feature_engineering.ipynb)  
-
-5. MLflow Experiment Tracking:
-
+4. MLflow Experiment Tracking:
+ 
+ 🔗 [View Notebooks in Repository](./notebooks/Model%20Training_notebook.ipynb)
    ![View Model Training Notebook](images/notebook4.png)
-   
-   🔗 [View Notebooks in Repository](./notebooks/Model%20Training_notebook.ipynb)
-   
-6. Synapse SQL Output:
+    
+5. Synapse SQL Output:
 
+🔗 [View script in Repository](./synapse/script.sql)
   ![SQL](images/synap.png)
   
-  🔗 [View script in Repository](./synapse/script.sql)
-   
-
-7. Power BI Dashboard:
+6. Power BI Dashboard:
    
    ![PowerBI](images/powerbi_dashboard.png)
 
