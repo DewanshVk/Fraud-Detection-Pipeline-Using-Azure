@@ -1,0 +1,53 @@
+[
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Customer%20Profiles/account_activity.csv",
+        "p_filder_name":"Customer_Profile",
+        "p_file_name":"account_activity.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Customer%20Profiles/customer_data.csv",
+        "p_filder_name":"Customer_Profile",
+        "p_file_name":"customer_data.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Fraudulent%20Patterns/fraud_indicators.csv",
+        "p_filder_name":"Fraudulent Patterns",
+        "p_file_name":"fraud_indicators.csv"
+    },
+    {
+        "p_reltv":"/DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Fraudulent%20Patterns/suspicious_activity.csv",
+        "p_filder_name":"Fraudulent Patterns",
+        "p_file_name":"suspicious_activity.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Merchant%20Information/merchant_data.csv",
+        "p_filder_name":"Merchant Information",
+        "p_file_name":"merchant_data.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Merchant%20Information/transaction_category_labels.csv",
+        "p_filder_name":"Merchant Information",
+        "p_file_name":"transaction_category_labels.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Transaction%20Amounts/amount_data.csv",
+        "p_filder_name":"Transaction Amounts",
+        "p_file_name":"amount_data.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Transaction%20Amounts/anomaly_scores.csv",
+        "p_filder_name":"Transaction Amounts",
+        "p_file_name":"anomaly_scores.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Transaction%20Data/transaction_metadata.csv",
+        "p_filder_name":"Transaction Data",
+        "p_file_name":"transaction_metadata.csv"
+    },
+    {
+        "p_reltv":"DewanshVk/Fraud-Detection-Pipeline-Using-Azure/refs/heads/main/Data/Transaction%20Data/transaction_records.csv",
+        "p_filder_name":"Transaction Data",
+        "p_file_name":"transaction_records.csv"
+    }
+
+]
